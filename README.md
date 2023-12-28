@@ -75,8 +75,7 @@ These individual signals from the Coppock Curve and RSI are then combined to asc
 
 The different stocks in our stock basket will be issued different scores, reflective of the strategic signals derived from our systematic trading approach.
 
- \
-
+ 
 
 
 ## <span style="text-decoration:underline;">3.3 Portfolio Weights and Capital Allocation</span>
